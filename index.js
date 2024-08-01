@@ -11,7 +11,7 @@ function microsoftCopilot(funcionalidade) {
     } else if (funcionalidade === "Da vida aos seus sistemas") {
         return "Seleciona conectores de dados para eficiência operacional.";
     } else if (funcionalidade === "Trazer seus próprios modelos do Azure") {
-        return "Configura, treina e conecta serviços no Azuere, com o Azure OpenAI.";
+        return "Configura, treina e conecta serviços no Azuere, como o Azure OpenAI.";
     }
 }
 
